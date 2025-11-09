@@ -1,11 +1,11 @@
 👋 Hi there!
 
-I'm an engineer and researcher based in Kaiserslautern. I:
+I'm an engineer, musician and researcher based in Kaiserslautern. I:
 
-(1) work and research on the topic of [AAS, digital twins](https://github.com/eclipse-basyx/basyx-java-server-sdk) and MBSE;
+(1) work and research on the topic of [Safety](https://mlsafety.mmolina.me) and [Digital twins](https://github.com/eclipse-basyx/basyx-java-server-sdk);
 
-(2) produce music I'm still afraid of publishing - mostly rock/metal
+(2) produce [music](https://absurdsilence.mmolina.me);
 
-(3) maintain a [strange mixture of blog and second brain](http://mateusmolina.github.io/)
+(3) maintain a [blog](https://mmmolina.me);
 
-(4) game dev in the spare time
+(4) game dev in the spare time.
