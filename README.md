@@ -6,6 +6,6 @@ I'm an engineer, musician and researcher based in Kaiserslautern. I:
 
 (2) produce [music](https://absurdsilence.mmolina.me);
 
-(3) maintain a [blog](https://mmmolina.me);
+(3) maintain a [blog](https://mmolina.me);
 
 (4) game dev in the spare time.
